@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:XamCnblogs.UI.Controls;assembly=XamCnblogs.UI"
+             x:Class="XamCnblogs.UI.Pages.About.SettingPage"
+             Title="Setting">
+    <ContentPage.Content>
+        <StackLayout Spacing="0">
+            <StackLayout Padding="20" Spacing="10">
+                <Label 
+                    Text="Notice"
+                    Style="{StaticResource SecondaryTextStyle}"
+                    TextColor="{StaticResource Primary}"/>
+                <StackLayout Orientation="Horizontal" VerticalOptions="CenterAndExpand">
+                    <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" Spacing="10">
+                        <Label 
+                            Text="Receive Message Push"
+                            Style="{StaticResource PrimaryTextStyle}"/>
+                        <Label 
+                            Text="In development..."
+                            Style="{StaticResource SecondaryTextStyle}"/>
+                    </StackLayout>
+                    <Switch 
+                        HorizontalOptions="End"
+                        VerticalOptions="CenterAndExpand"
+                        IsToggled="True"/>
+                </StackLayout>
+            </StackLayout>
+            <controls:HeaderDivider HorizontalOptions="FillAndExpand"/>
+            <StackLayout Padding="20" Spacing="10">
+                <Label 
+                    Text="Little tail"
+                    Style="{StaticResource SecondaryTextStyle}"
+                    TextColor="{StaticResource Primary}"/>
+                <StackLayout Orientation="Horizontal" VerticalOptions="CenterAndExpand">
+                    <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" Spacing="10">
+                        <Label 
+                            Text="Personality little tail"
+                            Style="{StaticResource PrimaryTextStyle}"/>
+                        <Label 
+                            Text="Can be customized after opening，but in development..."
+                            Style="{StaticResource SecondaryTextStyle}"/>
+                    </StackLayout>
+                    <Switch 
+                        x:Name="WeibaSwitch"
+                        HorizontalOptions="End"
+                        VerticalOptions="CenterAndExpand"
+                        IsToggled="True"/>
+                </StackLayout>
+            </StackLayout>
+            <controls:HeaderDivider HorizontalOptions="FillAndExpand"/>
+            <StackLayout Padding="20" Spacing="10">
+                <Label 
+                    x:Name="WeibaButton"
+                    Text="Set the little tail"
+                    Style="{StaticResource PrimaryTextStyle}" HorizontalOptions="FillAndExpand"/>
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnSettingWeiba"/>
+                </StackLayout.GestureRecognizers>
+            </StackLayout>
+            <controls:HeaderDivider HorizontalOptions="FillAndExpand"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <DefineConstants>$(DefineConstants);ANDROID_1;ANDROID_2;ANDROID_3;ANDROID_4;ANDROID_5;ANDROID_6;ANDROID_7;ANDROID_8;ANDROID_9;ANDROID_10;ANDROID_11;ANDROID_12;ANDROID_13;ANDROID_14;ANDROID_15;ANDROID_16;ANDROID_17;ANDROID_18;ANDROID_19;ANDROID_20;ANDROID_21;ANDROID_22;ANDROID_23;ANDROID_24;ANDROID_25;ANDROID_26;ANDROID_27</DefineConstants>
+  </PropertyGroup>
+  <!-- Classes -->
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Common.Constants.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Common.MessageKey.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Data.CachedMessageIntent.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Data.MessageId.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Data.PushClickEntity.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Data.RegisterEntity.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Data.StorageEntity.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Data.TagEntity.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Data.UnregisterInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Encrypt.Rijndael.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Horse.Data.OptStrategyList.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Horse.Data.ServerItem.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Horse.Data.StrategyItem.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Horse.DefaultServer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Horse.Tools.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.IXGIOperateCallback.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.IXGIResult.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.IXGPushNotifactionCallback.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Rpc.RemoteService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Rpc.XGRemoteService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Service.Cache.CacheManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Service.Channel.Exception.ChannelException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Service.Channel.Exception.CommandMappingException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Service.Channel.Exception.HorseIgnoreException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Service.Channel.Exception.InnerException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Service.Channel.Exception.IORefusedException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Service.Channel.Exception.NullReturnException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Service.Channel.Exception.SecurityException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Service.Channel.Exception.UnexpectedDataException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Service.Channel.Protocol.TPNS_CLIENT_REPORT_CMD.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Service.Channel.Security.TpnsSecurity.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Service.XGDaemonService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Service.XGPushServiceV3.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Service.XGWatchdog.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.SettingsContentProvider.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Stat.Event.EventType.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.Stat.StatReportStrategy.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.XGDownloadService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.XGLocalMessage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.XGNotifaction.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.XGPro.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.XGPush4Msdk.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.XGPushActivity.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.XGPushBaseReceiver.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.XGPushClickedResult.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.XGPushConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.XGPushConstants.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.XGPushManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.XGPushProvider.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.XGPushReceiver.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.XGPushRegisterResult.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.XGPushShowedResult.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Tencent.Android.Tpush.XGPushTextMessage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Java.Interop.__TypeRegistrations.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\__NamespaceMapping__.cs" />
+  </ItemGroup>
+  <!-- Enums -->
+  <ItemGroup />
+</Project>

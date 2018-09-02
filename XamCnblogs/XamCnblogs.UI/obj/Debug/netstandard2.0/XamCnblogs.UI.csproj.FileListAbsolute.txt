@@ -1,0 +1,118 @@
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\bin\Debug\netstandard2.0\XamCnblogs.UI.deps.json
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\bin\Debug\netstandard2.0\XamCnblogs.UI.dll
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\bin\Debug\netstandard2.0\XamCnblogs.UI.pdb
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\bin\Debug\netstandard2.0\XamCnblogs.Portable.dll
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\bin\Debug\netstandard2.0\XamCnblogs.Portable.pdb
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\XamCnblogs.UI.csprojAssemblyReference.cache
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Cells\ArticlesItemCell.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Cells\BookmarksItemCell.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Cells\KbArticlesItemCell.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Cells\NewsItemCell.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Cells\QuestionsItemCell.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Cells\SearchItemCell.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Cells\StatusesItemCell.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Controls\ActivityIndicatorButton.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Controls\HeaderDivider.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\About\AboutPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\About\SettingPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\About\SettingWeibaPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Account\AccountPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Account\ArticlesPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Account\AuthorizePage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Account\BookmarksDetailsPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Account\BookmarksEditPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Account\BookmarksPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\ActivityIndicatorPopupPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Article\ArticlesCommentPopupPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Article\ArticlesDetailsPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Article\ArticlesPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Article\ArticlesSearchPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\KbArticle\KbArticlesDetailsPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\KbArticle\KbArticlesPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\KbArticle\KbArticlesSearchPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\New\NewsCommentPopupPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\New\NewsDetailsPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\New\NewsPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\New\NewsSearchPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Question\AnswersCommentPopupPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Question\AnswersDetailsPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Question\QuestionsAnswersPopupPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Question\QuestionsDetailsPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Question\QuestionsEditPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Question\QuestionsPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Question\QuestionsSearchPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Search\ArticlesSearchPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Search\KbArticlesSearchPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Search\NewsSearchPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Search\QuestionsSearchPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Status\StatusesCommentPopupPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Status\StatusesDetailsPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Status\StatusesEditPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Status\StatusesPage.xaml.g.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\XamCnblogs.UI.csproj.CoreCompileInputs.cache
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\XamCnblogs.UI.AssemblyInfoInputs.cache
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\XamCnblogs.UI.AssemblyInfo.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\XamCnblogs.UI.csproj.CopyComplete
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\XamCnblogs.UI.dll
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\XamCnblogs.UI.pdb
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\bin\Debug\netstandard2.0\XamCnblogs.UI.deps.json
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\bin\Debug\netstandard2.0\XamCnblogs.UI.dll
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\bin\Debug\netstandard2.0\XamCnblogs.UI.pdb
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\bin\Debug\netstandard2.0\XamCnblogs.Portable.dll
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\bin\Debug\netstandard2.0\XamCnblogs.Portable.pdb
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\XamCnblogs.UI.csprojAssemblyReference.cache
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Cells\ArticlesItemCell.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Cells\BookmarksItemCell.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Cells\KbArticlesItemCell.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Cells\NewsItemCell.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Cells\QuestionsItemCell.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Cells\SearchItemCell.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Cells\StatusesItemCell.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Controls\ActivityIndicatorButton.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Controls\HeaderDivider.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\About\AboutPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\About\SettingPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\About\SettingWeibaPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Account\AccountPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Account\ArticlesPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Account\AuthorizePage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Account\BookmarksDetailsPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Account\BookmarksEditPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Account\BookmarksPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\ActivityIndicatorPopupPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Article\ArticlesCommentPopupPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Article\ArticlesDetailsPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Article\ArticlesPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Article\ArticlesSearchPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\KbArticle\KbArticlesDetailsPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\KbArticle\KbArticlesPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\KbArticle\KbArticlesSearchPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\New\NewsCommentPopupPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\New\NewsDetailsPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\New\NewsPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\New\NewsSearchPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Question\AnswersCommentPopupPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Question\AnswersDetailsPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Question\QuestionsAnswersPopupPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Question\QuestionsDetailsPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Question\QuestionsEditPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Question\QuestionsPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Question\QuestionsSearchPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Search\ArticlesSearchPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Search\KbArticlesSearchPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Search\NewsSearchPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Search\QuestionsSearchPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Status\StatusesCommentPopupPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Status\StatusesDetailsPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Status\StatusesEditPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\Pages\Status\StatusesPage.xaml.g.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\XamCnblogs.UI.csproj.CoreCompileInputs.cache
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\XamCnblogs.UI.AssemblyInfoInputs.cache
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\XamCnblogs.UI.AssemblyInfo.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\XamlC.stamp
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\XamCnblogs.UI.csproj.CopyComplete
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\XamCnblogs.UI.dll
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.UI\obj\Debug\netstandard2.0\XamCnblogs.UI.pdb

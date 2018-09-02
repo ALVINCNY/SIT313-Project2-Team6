@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:XamCnblogs.UI.Controls;assembly=XamCnblogs.UI"
+             x:Class="XamCnblogs.UI.Pages.Account.BookmarksEditPage">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="45" />
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="45" />
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="45" />
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" Text="Title" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Style="{StaticResource SecondaryTextStyle}"/>
+            <controls:XamEntry 
+                x:Name="EntryTitle"
+                Grid.Row="0" 
+                Grid.Column="1" 
+                VerticalOptions="CenterAndExpand"
+                Placeholder="Please fill in the title you want to collect"
+                Style="{StaticResource SecondaryTextStyle}"/>
+            <controls:HeaderDivider  Grid.Row="1" Grid.Column="1"/>
+            <Label Grid.Row="2" Grid.Column="0" Text="URL" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Style="{StaticResource SecondaryTextStyle}"/>
+            <controls:XamEntry 
+                x:Name="EntryLink"
+                Grid.Row="2" 
+                Grid.Column="1" 
+                VerticalOptions="CenterAndExpand"
+                Placeholder="Please fill in the URL you want to bookmark"
+                Style="{StaticResource SecondaryTextStyle}"/>
+            <controls:HeaderDivider  Grid.Row="3" Grid.Column="1"/>
+            <Label Grid.Row="4" Grid.Column="0" Text="Tags" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Style="{StaticResource SecondaryTextStyle}"/>
+            <controls:XamEntry 
+                x:Name="EntryTags"
+                Grid.Row="4" 
+                Grid.Column="1" 
+                VerticalOptions="CenterAndExpand"
+                Placeholder="Add tags to your collection, separated by commas"
+                Style="{StaticResource SecondaryTextStyle}"/>
+            <controls:HeaderDivider  Grid.Row="5" Grid.Column="1"/>
+            <controls:XamEditor 
+                x:Name="EditorSummary"
+                Grid.Row="6" 
+                Grid.ColumnSpan="2"
+                VerticalOptions="FillAndExpand"
+                Placeholder="Summary no more than 200 words"
+                Style="{StaticResource SecondaryTextStyle}"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

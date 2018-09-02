@@ -1,0 +1,3 @@
+com.tencent.android.tpush.horse.DefaultServer$ENV:Com.Tencent.Android.Tpush.Horse:DefaultServer.ENV
+com.tencent.android.tpush.stat.StatReportStrategy:Com.Tencent.Android.Tpush.Stat:StatReportStrategy
+com.tencent.android.tpush.stat.event.EventType:Com.Tencent.Android.Tpush.Stat.Event:EventType

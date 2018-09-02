@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             xmlns:controls="clr-namespace:XamCnblogs.UI.Controls;assembly=XamCnblogs.UI"
+             x:Class="XamCnblogs.UI.Pages.Account.AccountPage"
+             Title="About Me">
+    <StackLayout >
+        <StackLayout ></StackLayout>
+        <controls:CardView Padding="10">
+            <StackLayout Orientation="Horizontal" VerticalOptions="CenterAndExpand" Padding="5">
+                <ffimageloading:CachedImage 
+                    x:Name="ffimageloading"
+                    HorizontalOptions="Center" 
+                    VerticalOptions="Center"
+                    LoadingPlaceholder="avatar_placeholder.png" 
+                    ErrorPlaceholder="avatar_placeholder.png" 
+                    DownsampleToViewSize="true"
+                    Aspect="AspectFit" 
+                    HeightRequest="60" 
+                    WidthRequest="60">
+                </ffimageloading:CachedImage>
+                <StackLayout  
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="CenterAndExpand">
+                    <Label
+                        x:Name="UserName"
+                                   Text="Group Six"
+                                   Style="{StaticResource PrimaryTextStyle}"
+                                   VerticalOptions="CenterAndExpand"/>
+                    <Label
+                        x:Name="UserSeniority"
+                                   Text="Registration time：11 Months"
+                                   Style="{StaticResource SecondaryTextStyle}"
+                                   VerticalOptions="CenterAndExpand"/>
+                    <Label
+                        x:Name="Login"
+                                   Text="Click to Login"
+                                   Style="{StaticResource PrimaryTextStyle}"
+                                   VerticalOptions="CenterAndExpand"/>
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="OnLogin"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+            </StackLayout>
+        </controls:CardView>
+        <controls:CardView Padding="0">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="50" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Image Grid.Row="0" Grid.Column="0" Source="menu_blog.png" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
+                <StackLayout   Grid.Row="0" Grid.Column="1"
+                    VerticalOptions="CenterAndExpand">
+                    <Label
+                                   Text="My blog post"
+                                   Style="{StaticResource PrimaryTextStyle}" VerticalOptions="CenterAndExpand"/>
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="OnBlog"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <controls:HeaderDivider  Grid.Row="1" Grid.Column="1"/>
+                <Image Grid.Row="2" Grid.Column="0" Source="menu_bookmarks.png" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand"/>
+                <StackLayout Grid.Row="2" Grid.Column="1"
+                    VerticalOptions="CenterAndExpand">
+                    <Label
+                                   Text="My Collection"
+                                   Style="{StaticResource PrimaryTextStyle}" VerticalOptions="CenterAndExpand"/>
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="OnBookmarks"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+            </Grid>
+        </controls:CardView>
+        <controls:CardView Padding="0">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="50" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Image Grid.Row="0" Grid.Column="0" Source="menu_setting.png" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
+                <StackLayout   Grid.Row="0" Grid.Column="1"
+                    VerticalOptions="CenterAndExpand">
+                    <Label
+                                   Text="Setting"
+                                   Style="{StaticResource PrimaryTextStyle}" VerticalOptions="CenterAndExpand"/>
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="OnSetting"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <controls:HeaderDivider  Grid.Row="1" Grid.Column="1"/>
+                <Image Grid.Row="2" Grid.Column="0" Source="menu_about.png" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand"/>
+                <StackLayout Grid.Row="2" Grid.Column="1"
+                    VerticalOptions="CenterAndExpand">
+                    <Label
+                                   Text="About"
+                                   Style="{StaticResource PrimaryTextStyle}" VerticalOptions="CenterAndExpand"/>
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="OnAbout"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <controls:HeaderDivider  Grid.Row="3" Grid.Column="1"/>
+                <Image Grid.Row="4" Grid.Column="0" Source="menu_email.png" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand"/>
+                <StackLayout Grid.Row="4" Grid.Column="1"
+                    VerticalOptions="CenterAndExpand">
+                    <Label
+                                   Text="Feedback"
+                                   Style="{StaticResource PrimaryTextStyle}" VerticalOptions="CenterAndExpand"/>
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="OnEmail"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+            </Grid>
+        </controls:CardView>
+        <StackLayout
+                    x:Name="LogoutLayout"
+                    HorizontalOptions="CenterAndExpand"
+                    IsVisible="False"
+                    Padding="10">
+            <Label
+                                   Text="Exit account"
+                                   Style="{StaticResource LogoutStyle}"/>
+            <StackLayout.GestureRecognizers>
+                <TapGestureRecognizer Tapped="OnLogout"/>
+            </StackLayout.GestureRecognizers>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

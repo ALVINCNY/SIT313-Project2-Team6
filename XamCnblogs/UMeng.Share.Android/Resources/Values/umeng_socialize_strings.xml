@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="alphabet_size">12dip</dimen>
+    <dimen name="umeng_socialize_pad_window_height">350dip</dimen>
+    <dimen name="umeng_socialize_pad_window_width">580dip</dimen>
+    <!-- 平台名称 -->
+    <string name="umeng_socialize_text_tencent_key">Tencent WeiBo</string>
+    <string name="umeng_socialize_text_wenxin_fav">WeChat Farvirate</string>
+    <string name="umeng_socialize_text_sina_key">Sina</string>
+    <string name="umeng_socialize_text_qq_key">QQ</string>
+    <string name="umeng_socialize_text_qq_zone_key">QQ Qzone</string>
+    <string name="umeng_socialize_text_renren_key">RenRen</string>
+    <string name="umeng_socialize_text_douban_key">DouBan</string>
+    <string name="umeng_socialize_text_weixin_key">WeChat</string>
+    <string name="umeng_socialize_text_weixin_circle_key">WeChat Moments</string>
+    <string name="umeng_socialize_text_weixin_fav_key">WeChat Farvirate</string>
+    <string name="umeng_socialize_text_add_custom_platform">Please Config Custom Platform</string>
+    <string name="umeng_example_home_btn_plus">Social Share</string>
+    <string name="umeng_socialize_text_waitting_share">Sharing&#8230;</string>
+    <string name="umeng_socialize_content_hint">Say Some Word&#8230;</string>
+    <string name="umeng_socialize_cancel_btn_str">Cancel</string>
+    <string name="umeng_socialize_send_btn_str">Send</string>
+
+    <string name="umeng_socialize_female">Women</string>
+    <string name="umeng_socialize_male">Man</string>
+
+    <string name="umeng_socialize_share">Share</string>
+
+    <string name="umeng_socialize_mail">Email</string>
+    <string name="umeng_socialize_sms">SMS</string>
+    <string name="umeng_socialize_sina">Sina</string>
+    <string name="umeng_socialize_text_yixin_key">YinXin</string>
+    <string name="umeng_socialize_text_yixincircle_key">YinXin Moments</string>
+
+    <string name="umeng_socialize_text_laiwangdynamic_key">DDChong</string>
+    <string name="umeng_socialize_text_evernote_key">Evernote</string>
+    <string name="umeng_socialize_text_ydnote_key">YouDao Note</string>
+    <string name="umeng_socialize_text_facebook_key">Facebook</string>
+    <string name="umeng_socialize_text_facebookmessager_key">Facebook Messager</string>
+    <string name="umeng_socialize_text_twitter_key">Twitter</string>
+    <string name="umeng_socialize_text_instagram_key">Instagram</string>
+    <string name="umeng_socialize_text_pinterest_key">Pinterest</string>
+    <string name="umeng_socialize_text_pocket_key">Pocket</string>
+    <string name="umeng_socialize_text_linkedin_key">Linkedin</string>
+    <string name="umeng_socialize_text_foursquare_key">Foursquare</string>
+    <string name="umeng_socialize_text_whatsapp_key">WhatsApp</string>
+    <string name="umeng_socialize_text_line_key">LINE</string>
+    <string name="umeng_socialize_text_flickr_key">Flickr</string>
+    <string name="umeng_socialize_text_tumblr_key">Tumblr</string>
+    <string name="umeng_socialize_text_alipay_key">AliPay</string>
+    <string name="umeng_socialize_text_kakao_key">KakaoTalk</string>
+    <string name="umeng_socialize_text_googleplus_key">GooglePlus</string>
+    <string name="umeng_socialize_text_more_key">More</string>
+    <string name="umeng_socialize_text_dingding_key">DingTalk</string>
+    <string name="umeng_socialize_text_vkontakte_key">VKontakte</string>
+    <string name="umeng_socialize_text_dropbox_key">DropBox</string>
+</resources>

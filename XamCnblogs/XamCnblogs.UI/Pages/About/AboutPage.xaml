@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:XamCnblogs.UI.Controls;assembly=XamCnblogs.UI"
+             x:Class="XamCnblogs.UI.Pages.About.AboutPage"
+             Title="About">
+    <ContentPage.Content>
+        <StackLayout Spacing="0">
+            <StackLayout Padding="10" Spacing="10">
+                <Label 
+                            Text="Current Version"
+                            Style="{StaticResource PrimaryTextStyle}"/>
+                <Label 
+                    x:Name="VersionName"
+                            Text="1.0.0"
+                            Style="{StaticResource SecondaryTextStyle}"/>
+            </StackLayout>
+            <controls:HeaderDivider HorizontalOptions="FillAndExpand"/>
+            <StackLayout Padding="10" Spacing="10" HorizontalOptions="CenterAndExpand">
+                <Label 
+                            Text="Copyright © 2018 Group Six"
+                            Style="{StaticResource SecondaryTextStyle}"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,79 @@
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\bin\Debug\UMeng.Share.Android.dll
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\bin\Debug\UMeng.Share.Android.pdb
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\bin\Debug\UMeng.Share.Android.apk
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\bin\Debug\UMeng.Share.Android-Signed.apk
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\UMeng.Share.Android.csprojAssemblyReference.cache
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res.flag
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\UMeng.Share.Android.csproj.CoreCompileInputs.cache
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\UMeng.Share.Android.dll
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\UMeng.Share.Android.pdb
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\android\bin\UMeng.Share.Android.apk
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_back_icon.png
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_btn_bg.xml
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_copy.png
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_copyurl.png
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_delete.png
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_edit_bg.xml
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_fav.png
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_menu_default.png
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_more.png
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_qq.png
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_qzone.png
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_share.xml
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_share_music.png
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_share_video.png
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_share_web.png
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_sina.png
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_wechat.png
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_wxcircle.png
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\layout\socialize_share_menu_item.xml
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\layout\umeng_socialize_oauth_dialog.xml
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\layout-sw550dp-large\umeng_socialize_oauth_dialog.xml
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\values\strings.xml
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\values\umeng_socialize_colors.xml
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\values\umeng_socialize_shareview_strings.xml
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\values\umeng_socialize_strings.xml
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\values\umeng_socialize_style.xml
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\R.cs.flag
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\R.txt
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\uploadflags.txt
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\bin\Debug\UMeng.Share.Android.dll
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\bin\Debug\UMeng.Share.Android.pdb
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\bin\Debug\UMeng.Share.Android.apk
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\bin\Debug\UMeng.Share.Android-Signed.apk
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\UMeng.Share.Android.csprojAssemblyReference.cache
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res.flag
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\UMeng.Share.Android.csproj.CoreCompileInputs.cache
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\UMeng.Share.Android.dll
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\UMeng.Share.Android.pdb
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\android\bin\UMeng.Share.Android.apk
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_back_icon.png
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_btn_bg.xml
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_copy.png
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_copyurl.png
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_delete.png
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_edit_bg.xml
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_fav.png
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_menu_default.png
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_more.png
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_qq.png
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_qzone.png
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_share.xml
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_share_music.png
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_share_video.png
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_share_web.png
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_sina.png
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_wechat.png
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\drawable\umeng_socialize_wxcircle.png
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\layout\socialize_share_menu_item.xml
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\layout\umeng_socialize_oauth_dialog.xml
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\layout-sw550dp-large\umeng_socialize_oauth_dialog.xml
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\values\strings.xml
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\values\umeng_socialize_colors.xml
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\values\umeng_socialize_shareview_strings.xml
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\values\umeng_socialize_strings.xml
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\res\values\umeng_socialize_style.xml
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\R.cs.flag
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\R.txt
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\obj\Debug\MonoAndroid90\uploadflags.txt
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\UMeng.Share.Android\bin\Debug\UMeng.Share.Android.dll.mdb

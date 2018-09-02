@@ -1,0 +1,12 @@
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.Android\AndroidBindings\Binding_XgPush\bin\Debug\XgPush.Android.dll
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.Android\AndroidBindings\Binding_XgPush\bin\Debug\XgPush.Android.pdb
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.Android\AndroidBindings\Binding_XgPush\obj\Debug\Binding_XgPush.csprojAssemblyReference.cache
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.Android\AndroidBindings\Binding_XgPush\obj\Debug\Binding_XgPush.csproj.CoreCompileInputs.cache
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.Android\AndroidBindings\Binding_XgPush\obj\Debug\XgPush.Android.dll
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.Android\AndroidBindings\Binding_XgPush\obj\Debug\XgPush.Android.pdb
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\AndroidBindings\Binding_XgPush\bin\Debug\XgPush.Android.dll
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\AndroidBindings\Binding_XgPush\bin\Debug\XgPush.Android.pdb
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\AndroidBindings\Binding_XgPush\obj\Debug\Binding_XgPush.csprojAssemblyReference.cache
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\AndroidBindings\Binding_XgPush\obj\Debug\Binding_XgPush.csproj.CoreCompileInputs.cache
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\AndroidBindings\Binding_XgPush\obj\Debug\XgPush.Android.dll
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\AndroidBindings\Binding_XgPush\obj\Debug\XgPush.Android.pdb

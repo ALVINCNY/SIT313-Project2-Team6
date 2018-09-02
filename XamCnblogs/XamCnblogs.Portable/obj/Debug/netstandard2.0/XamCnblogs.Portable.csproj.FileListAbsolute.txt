@@ -1,0 +1,20 @@
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.Portable\bin\Debug\netstandard2.0\XamCnblogs.Portable.deps.json
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.Portable\bin\Debug\netstandard2.0\XamCnblogs.Portable.dll
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.Portable\bin\Debug\netstandard2.0\XamCnblogs.Portable.pdb
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamCnblogs.Portable.csprojAssemblyReference.cache
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamCnblogs.Portable.csproj.CoreCompileInputs.cache
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamCnblogs.Portable.AssemblyInfoInputs.cache
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamCnblogs.Portable.AssemblyInfo.cs
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamCnblogs.Portable.dll
+C:\Users\DUWENINK\Desktop\XamCnblogs-master\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamCnblogs.Portable.pdb
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Portable\bin\Debug\netstandard2.0\XamCnblogs.Portable.deps.json
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Portable\bin\Debug\netstandard2.0\XamCnblogs.Portable.dll
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Portable\bin\Debug\netstandard2.0\XamCnblogs.Portable.pdb
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamCnblogs.Portable.csprojAssemblyReference.cache
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamCnblogs.Portable.csproj.CoreCompileInputs.cache
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamCnblogs.Portable.AssemblyInfoInputs.cache
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamCnblogs.Portable.AssemblyInfo.cs
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamlC.stamp
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamCnblogs.Portable.dll
+D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamCnblogs.Portable.pdb
