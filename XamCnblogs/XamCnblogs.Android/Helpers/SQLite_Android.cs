@@ -22,7 +22,7 @@ namespace XamCnblogs.Droid.Helpers
             {
                 if (path == null)
                 {
-                    const string sqliteFilename = "xamcnblogs.db3";
+                    const string sqliteFilename = "xamcnblogs.db3";//user sqlite3 there the project requires db and offline this maybe a good soulution
                     string documentsPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments); // Documents folder
                     path = Path.Combine(documentsPath, sqliteFilename);
                 }

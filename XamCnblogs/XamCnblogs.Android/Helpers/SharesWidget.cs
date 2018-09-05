@@ -51,23 +51,23 @@ namespace XamCnblogs.Droid.Helpers
         }
         public void OnCancel(SHARE_MEDIA platform)
         {
-            Toast.MakeText(context, "分享取消了", ToastLength.Short).Show();
+            Toast.MakeText(context, "Share  Cannel", ToastLength.Short).Show();
         }
 
         public void OnError(SHARE_MEDIA platform, Throwable p1)
         {
-            Toast.MakeText(context, "分享失败了", ToastLength.Short).Show();
+            Toast.MakeText(context, "Share  Failed", ToastLength.Short).Show();
         }
 
         public void OnResult(SHARE_MEDIA platform)
         {
             if (platform == SHARE_MEDIA.WeixinFavorite)
             {
-                Toast.MakeText(context, "收藏成功", ToastLength.Short).Show();
+                Toast.MakeText(context, "Collect Successful", ToastLength.Short).Show();
             }
             else
             {
-                Toast.MakeText(context, "分享成功", ToastLength.Short).Show();
+                Toast.MakeText(context, "Sahre Successful", ToastLength.Short).Show();
             }
         }
 

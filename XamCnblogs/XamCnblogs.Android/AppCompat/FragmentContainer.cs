@@ -67,7 +67,7 @@ namespace XamCnblogs.Droid.AppCompat
         {
             if (Page != null)
             {
-                //注意
+                // Pay Attention to this
                 //_visualElementRenderer = Android.Platform.CreateRenderer(Page, ChildFragmentManager);
                 _visualElementRenderer = Platform.CreateRendererWithContext(Page, this.Context);
                 Platform.SetRenderer(Page, _visualElementRenderer);
@@ -100,7 +100,7 @@ namespace XamCnblogs.Droid.AppCompat
                 // if animated fragment transitions are enabled (it removes some info that the animation's 
                 // onAnimationEnd handler requires to properly clean things up)
                 // Instead, we let the garbage collector pick it up later, when we can be sure it's safe
-                //注意
+                //Pay Attention to this
                 //Page?.ClearValue(Platform.RendererProperty);
             }
 

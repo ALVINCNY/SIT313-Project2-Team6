@@ -1,7 +1,7 @@
 ﻿namespace XamCnblogs.Portable.Helpers
 {
     public class Apis
-    {
+    {//those  are the  apis  of the cnblog 
         public const string Host = "https://api.cnblogs.com/";
         public const string Api = "api";
         public const string Token = "https://oauth.cnblogs.com/connect/token";
