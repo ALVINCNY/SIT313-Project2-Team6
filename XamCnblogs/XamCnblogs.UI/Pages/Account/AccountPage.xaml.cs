@@ -14,7 +14,7 @@ namespace XamCnblogs.UI.Pages.Account
         public AccountPage()
         {
             InitializeComponent();
-            Title = "我";
+            Title = "Me";
             Icon = "menu_avatar.png";
 
             ffimageloading.Transformations.Add(new CircleTransformation());
@@ -59,7 +59,7 @@ namespace XamCnblogs.UI.Pages.Account
         }
         void OnLogout(object sender, EventArgs args)
         {
-            //注销登录
+            //LogOut
             if (!UserTokenSettings.Current.HasExpiresIn())
             {
                 UserSettings.Current.UpdateUser(new Portable.Model.User());
@@ -79,6 +79,8 @@ namespace XamCnblogs.UI.Pages.Account
                 Navigation.PushAsync(new ArticlesPage(UserSettings.Current.BlogApp));
             }
         }
+
+        //Setting  BookMarks
         void OnBookmarks(object sender, EventArgs args)
         {
             if (UserTokenSettings.Current.HasExpiresIn())
@@ -104,19 +106,19 @@ namespace XamCnblogs.UI.Pages.Account
             {
                 var message = new EmailMessage
                 {
-                    Subject = "来自 XamCnblogs - " + VersionTracking.CurrentVersion + " 的客户端反馈",
+                    Subject =$"From XamCnblogs's Client  -{ VersionTracking.CurrentVersion} ",
                     Body = "",
-                    To = new System.Collections.Generic.List<string>() { "476920650@qq.com" }
+                    To = new System.Collections.Generic.List<string>() { "614047512@qq.com" }
                 };
                 await Email.ComposeAsync(message);
             }
             catch (FeatureNotSupportedException)
             {
-                DependencyService.Get<IToast>().SendToast("系统中没有安装邮件客户端");
+                DependencyService.Get<IToast>().SendToast("No email client in your phone");
             }
             catch (Exception)
             {
-                DependencyService.Get<IToast>().SendToast("系统中没有安装邮件客户端");
+                DependencyService.Get<IToast>().SendToast("No email client in your phone");
             }
         }
     }
