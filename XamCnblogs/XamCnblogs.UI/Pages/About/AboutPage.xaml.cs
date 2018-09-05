@@ -27,7 +27,7 @@ namespace XamCnblogs.UI.Pages.About
                     Text = "Share",
                     Command = new Command(() =>
                     {
-                        DependencyService.Get<IShares>().Shares("https://github.com/JoesWeek/XamCnblogs", "Group Six make for CnBlogs");
+                        DependencyService.Get<IShares>().Shares("https://github.com/ALVINCNY/SIT313-Project2-Team6", "Group Six make for CnBlogs");
                     }),
                     Icon = "toolbar_share.png"
                 };
