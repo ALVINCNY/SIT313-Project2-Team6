@@ -14,13 +14,13 @@
             <div class="authorInfo-content">
                 <div class="authorInfo-name" v-html="model.AnswerUserInfo.UserName"></div>
                 <span class="authorInfo-time">
-                    {{ model.AnswerUserInfo.QScoreName }}   ·  {{ model.AnswerUserInfo.QScore }} 园豆 · 回答于 {{ model.DateDisplay }}
+                    {{ model.AnswerUserInfo.QScoreName }}   ·  {{ model.AnswerUserInfo.QScore }} CnBlogs' coin · Answered to {{ model.DateDisplay }}
                 </span>
             </div>
             <div class="dealflag">
                 <div style="height:13px;"></div>
                 <div class="dealflag1" v-if="model.IsBest">
-                    最佳回答
+                    Best answer
                 </div>
             </div>
         </div>
@@ -28,7 +28,8 @@
         <div class="comments">
             <div class="comment-header">
                 <div class="line"></div>
-                <div class="comment">所有评论</div>
+                <div class="comment">All comments
+                </div>
                 <div class="line">
                 </div>
             </div>
@@ -41,7 +42,7 @@
                                 {{ item.PostUserInfo.UserName }}
                             </span>
                             <span class="item-time">
-                                {{ item.PostUserInfo.QScoreName }}   ·  {{ item.PostUserInfo.QScore }} 园豆
+                                {{ item.PostUserInfo.QScoreName }}   ·  {{ item.PostUserInfo.QScore }} CnBlogs' coin
                             </span>
                         </div>
                         <div class="item-content" v-html="item.Content"></div>
@@ -59,17 +60,17 @@
         </div>
         <div class="footer">
             <div class="loading" v-if="loadStatus == 0||loadStatus == 1">
-                <img src="./images/loading.gif" class="loading-img" /><span class="loading-content">正在加载中</span>
+                <img src="./images/loading.gif" class="loading-img" /><span class="loading-content">Loading</span>
             </div>
             <div class="nodata" v-else-if="loadStatus == 2">
-                - 还没有评论 -
+                - No comments yet -
             </div>
             <div class="nodata" v-else-if="loadStatus == 3">
-                - 没有更多评论了 -
+                - No more comments -
             </div>
             <div class="error" v-else-if="loadStatus === 4||loadStatus === 5">
-                <span class="error-content">好像出现了问题</span>
-                <a href="javascript:void(0)" class="error-btn" v-on:click="reload">重新加载</a>
+                <span class="error-content">It seems that something has gone wrong.</span>
+                <a href="javascript:void(0)" class="error-btn" v-on:click="reload">Reload</a>
             </div>
         </div>
     </div>

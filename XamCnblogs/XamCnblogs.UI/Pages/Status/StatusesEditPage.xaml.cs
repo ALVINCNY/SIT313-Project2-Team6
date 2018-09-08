@@ -35,15 +35,15 @@ namespace XamCnblogs.UI.Pages.Status
             BindingContext = new StatusesViewModel();
             if (statuses.Id > 0)
             {
-                Title = "编辑闪存";
+                Title = "Edit Flash";
             }
             else
             {
-                Title = "发布闪存";
+                Title = "Post Flash";
             }
             var cancel = new ToolbarItem
             {
-                Text = "保存",
+                Text = "Save",
                 Command = new Command(async () =>
                 {
                     await ExecuteStatusesEditAsync();
@@ -62,11 +62,11 @@ namespace XamCnblogs.UI.Pages.Status
             var content = this.editorContent.Text;
             if (content == null)
             {
-                toast.SendToast("请输入内容");
+                toast.SendToast("Please Enter Content");
             }
             else if (content.Length < 3)
             {
-                toast.SendToast("内容最少要3个字.");
+                toast.SendToast("Content At Least 3 Words.");
             }
             else
             {

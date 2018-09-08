@@ -1,113 +1,113 @@
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\XamCnblogs.Android.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Bugly.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\FFImageLoading.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\FFImageLoading.Forms.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\FFImageLoading.Forms.Platform.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\FFImageLoading.Platform.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\FFImageLoading.Transformations.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\FormsToolkit.Android.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\FormsToolkit.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\FormsViewGroup.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Java.Interop.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Microsoft.AppCenter.Analytics.Android.Bindings.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Microsoft.AppCenter.Analytics.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Microsoft.AppCenter.Android.Bindings.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Microsoft.AppCenter.Crashes.Android.Bindings.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Microsoft.AppCenter.Crashes.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Microsoft.AppCenter.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\ModernHttpClient.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Android.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Android.Export.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\mscorlib.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\MvvmHelpers.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Naxam.TopTabbedPage.Forms.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Newtonsoft.Json.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Plugin.CurrentActivity.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Plugin.Settings.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Rg.Plugins.Popup.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Rg.Plugins.Popup.Droid.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\SQLite-net.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\SQLitePCLRaw.batteries_green.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\SQLitePCLRaw.batteries_v2.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\SQLitePCLRaw.core.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Square.OkHttp3.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Square.OkIO.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Core.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.IdentityModel.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Net.Http.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Runtime.Serialization.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.Linq.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\UMeng.Android.Shares.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\UMeng.Share.Android.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xam.Plugin.WebView.Abstractions.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xam.Plugin.WebView.Droid.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Arch.Core.Common.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.Annotations.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.Compat.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.Core.UI.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.Core.Utils.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.CustomTabs.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.Design.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.Fragment.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.Media.Compat.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.Transition.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.v4.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.v7.CardView.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.v7.Palette.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Essentials.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Core.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Platform.Android.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Platform.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Xaml.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\XamCnblogs.Portable.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\XamCnblogs.UI.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\XgPush.Android.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Runtime.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.ComponentModel.Composition.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Resources.ResourceManager.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Collections.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Reflection.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Threading.Tasks.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.IO.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Diagnostics.Debug.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Threading.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Runtime.Extensions.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Text.Encoding.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Text.RegularExpressions.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Net.Primitives.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Linq.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.ObjectModel.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Globalization.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Reflection.Extensions.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Linq.Expressions.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Collections.Concurrent.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Reflection.Primitives.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Dynamic.Runtime.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Runtime.InteropServices.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\netstandard.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Data.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Numerics.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Transactions.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Diagnostics.StackTrace.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Globalization.Extensions.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.IO.Compression.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.IO.Compression.FileSystem.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Runtime.Serialization.Xml.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Runtime.Serialization.Primitives.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Security.Cryptography.Algorithms.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Security.SecureString.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Web.Services.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.XPath.XDocument.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Security.dll
-D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.ServiceModel.Internals.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\XamCnblogs.Android.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Bugly.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\FFImageLoading.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\FFImageLoading.Forms.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\FFImageLoading.Forms.Platform.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\FFImageLoading.Platform.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\FFImageLoading.Transformations.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\FormsToolkit.Android.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\FormsToolkit.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\FormsViewGroup.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Java.Interop.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Microsoft.AppCenter.Analytics.Android.Bindings.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Microsoft.AppCenter.Analytics.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Microsoft.AppCenter.Android.Bindings.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Microsoft.AppCenter.Crashes.Android.Bindings.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Microsoft.AppCenter.Crashes.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Microsoft.AppCenter.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\ModernHttpClient.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Android.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Android.Export.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\mscorlib.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\MvvmHelpers.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Naxam.TopTabbedPage.Forms.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Newtonsoft.Json.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Plugin.CurrentActivity.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Plugin.Settings.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Rg.Plugins.Popup.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Rg.Plugins.Popup.Droid.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\SQLite-net.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\SQLitePCLRaw.batteries_green.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\SQLitePCLRaw.batteries_v2.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\SQLitePCLRaw.core.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Square.OkHttp3.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Square.OkIO.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Core.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.IdentityModel.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Net.Http.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Runtime.Serialization.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.Linq.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\UMeng.Android.Shares.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\UMeng.Share.Android.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xam.Plugin.WebView.Abstractions.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xam.Plugin.WebView.Droid.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Arch.Core.Common.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.Annotations.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.Compat.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.Core.UI.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.Core.Utils.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.CustomTabs.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.Design.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.Fragment.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.Media.Compat.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.Transition.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.v4.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.v7.CardView.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.v7.Palette.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Essentials.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Core.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Platform.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Xaml.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\XamCnblogs.Portable.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\XamCnblogs.UI.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\XgPush.Android.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Runtime.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.ComponentModel.Composition.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Resources.ResourceManager.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Collections.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Reflection.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Threading.Tasks.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.IO.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Diagnostics.Debug.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Threading.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Runtime.Extensions.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Text.Encoding.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Text.RegularExpressions.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Net.Primitives.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Linq.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.ObjectModel.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Globalization.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Reflection.Extensions.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Linq.Expressions.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Collections.Concurrent.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Reflection.Primitives.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Dynamic.Runtime.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Runtime.InteropServices.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\netstandard.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Data.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Numerics.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Transactions.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Diagnostics.StackTrace.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Globalization.Extensions.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.IO.Compression.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.IO.Compression.FileSystem.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Runtime.Serialization.Xml.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Runtime.Serialization.Primitives.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Security.Cryptography.Algorithms.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Security.SecureString.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Web.Services.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.XPath.XDocument.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Security.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\System.ServiceModel.Internals.dll

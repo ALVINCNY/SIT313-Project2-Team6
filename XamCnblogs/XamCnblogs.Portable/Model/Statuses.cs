@@ -24,7 +24,7 @@ namespace XamCnblogs.Portable.Model
         {
             get
             {
-                return CommentCount > 0 ? CommentCount.ToString() : "回复";
+                return CommentCount > 0 ? CommentCount.ToString() : "replies";
             }
         }
         [Ignore]

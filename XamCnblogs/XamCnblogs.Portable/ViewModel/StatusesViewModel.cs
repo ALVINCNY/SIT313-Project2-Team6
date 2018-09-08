@@ -134,7 +134,7 @@ namespace XamCnblogs.Portable.ViewModel
             var result = await StoreManager.StatusesService.EditStatusesAsync(statuses);
             if (result.Success)
             {
-                Toast.SendToast(statuses.Id > 0 ? "修改闪存成功" : "发布成功");
+                Toast.SendToast(statuses.Id > 0 ? "Modify Success" : "Update Success");
             }
             else
             {
@@ -183,7 +183,7 @@ namespace XamCnblogs.Portable.ViewModel
                         Crashes.TrackError(new Exception() { Source = result.Message });
                         index = Statuses.IndexOf(statuses);
                         Statuses[index].IsDelete = false;
-                        Toast.SendToast("删除失败");
+                        Toast.SendToast("Delete Failed");
                     }
                 }
             }));

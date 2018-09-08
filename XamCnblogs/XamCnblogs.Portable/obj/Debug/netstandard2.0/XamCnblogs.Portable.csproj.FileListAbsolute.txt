@@ -18,3 +18,13 @@ D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Portable\obj\Debug\ne
 D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamlC.stamp
 D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamCnblogs.Portable.dll
 D:\SVN_DUWENINK\InCome\0901Group Six\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamCnblogs.Portable.pdb
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Portable\bin\Debug\netstandard2.0\XamCnblogs.Portable.deps.json
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Portable\bin\Debug\netstandard2.0\XamCnblogs.Portable.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Portable\bin\Debug\netstandard2.0\XamCnblogs.Portable.pdb
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamCnblogs.Portable.csprojAssemblyReference.cache
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamCnblogs.Portable.csproj.CoreCompileInputs.cache
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamCnblogs.Portable.AssemblyInfoInputs.cache
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamCnblogs.Portable.AssemblyInfo.cs
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamCnblogs.Portable.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Portable\obj\Debug\netstandard2.0\XamCnblogs.Portable.pdb

@@ -44,10 +44,10 @@ namespace XamCnblogs.Portable.ViewModel
         public NewsDetailsViewModel(News news)
         {
             this.news = news;
-            Title = "新闻";
+            Title = "News";
             NewsDetails = new NewsDetailsModel()
             {
-                CommentDisplay = news.CommentCount > 0 ? news.CommentCount.ToString() : "评论"
+                CommentDisplay = news.CommentCount > 0 ? news.CommentCount.ToString() : " comment"
             };
             IsBusy = true;
         }
@@ -64,8 +64,8 @@ namespace XamCnblogs.Portable.ViewModel
                 {
                     news.Body = JsonConvert.DeserializeObject<string>(result.Message.ToString());
 
-                    NewsDetails.CommentDisplay = news.CommentCount > 0 ? news.CommentCount.ToString() : "评论";
-                    NewsDetails.DateDisplay = "发布于 " + news.DateDisplay;
+                    NewsDetails.CommentDisplay = news.CommentCount > 0 ? news.CommentCount.ToString() : " comment";
+                    NewsDetails.DateDisplay = " post at " + news.DateDisplay;
                     HasError = false;
                 }
                 else
@@ -159,7 +159,7 @@ namespace XamCnblogs.Portable.ViewModel
             else
             {
                 Crashes.TrackError(new Exception() { Source = result.Message });
-                Toast.SendToast("删除失败");
+                Toast.SendToast("delete failed");
             }
             return result.Success;
         }

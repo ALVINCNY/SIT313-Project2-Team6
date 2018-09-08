@@ -11,7 +11,7 @@
         <div class="authorinfo">
             <div class="authorInfo-content">
                 <span class="authorInfo-time">
-                    发布于 · {{ model.DateDisplay }} · {{ model.DiggCount }} 推荐 · {{ model.ViewCount }} 阅读
+                    Posted on · {{ model.DateDisplay }} · {{ model.DiggCount }} Recommend · {{ model.ViewCount }} Read
                 </span>
             </div>
         </div>
@@ -19,7 +19,7 @@
         <div class="comments">
             <div class="comment-header">
                 <div class="line"></div>
-                <div class="comment">所有评论</div>
+                <div class="comment">All comments</div>
                 <div class="line">
                 </div>
             </div>
@@ -44,17 +44,17 @@
         </div>
         <div class="footer">
             <div class="loading" v-if="loadStatus == 0||loadStatus == 1">
-                <img src="./images/loading.gif" class="loading-img" /><span class="loading-content">正在加载中</span>
+                <img src="./images/loading.gif" class="loading-img" /><span class="loading-content">Loading</span>
             </div>
             <div class="nodata" v-else-if="loadStatus == 2">
-                - 还没有评论 -
+                - No comments yet -
             </div>
             <div class="nodata" v-else-if="loadStatus == 3">
-                - 没有更多评论了 -
+                - No more comments -
             </div>
             <div class="error" v-else-if="loadStatus === 4||loadStatus === 5">
-                <span class="error-content">好像出现了问题</span>
-                <a href="javascript:void(0)" class="error-btn" v-on:click="reload">重新加载</a>
+                <span class="error-content">It seems that something has gone wrong.</span>
+                <a href="javascript:void(0)" class="error-btn" v-on:click="reload">Reload</a>
             </div>
         </div>
     </div>
