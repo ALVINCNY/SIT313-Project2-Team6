@@ -23,7 +23,7 @@ namespace XamCnblogs.Portable.ViewModel
         {
             this.position = position;
             CanLoadMore = false;
-            //判断有没有登录
+            //判断有没有Login
             if (position > 0 && UserTokenSettings.Current.HasExpiresIn())
             {
                 LoadStatus = LoadMoreStatus.StausNologin;
@@ -48,7 +48,7 @@ namespace XamCnblogs.Portable.ViewModel
                     pageIndex = 1;
                     if (position > 0 && UserTokenSettings.Current.HasExpiresIn())
                     {
-                        //判断有没有登录
+                        //判断有没有Login
                         LoadStatus = LoadMoreStatus.StausNologin;
                         Statuses.Clear();
                     }

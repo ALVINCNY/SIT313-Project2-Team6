@@ -29,7 +29,7 @@ namespace XamCnblogs.Portable.Model
         {
             get
             {
-                return DiggCount + " 推荐 · " + CommentCount + " 评论 · " + ViewCount + " 阅读";
+                return DiggCount + " 推荐 · " + CommentCount + " comment · " + ViewCount + " 阅读";
             }
         }
     }

@@ -28,7 +28,7 @@ namespace XamCnblogs.UI.Pages.KbArticle
             {
                 var cancel = new ToolbarItem
                 {
-                    Text = "分享",
+                    Text = "Share",
                     Command = new Command(() =>
                     {
                         DependencyService.Get<IShares>().Shares("http://kb.cnblogs.com/page/" + kbArticles.Id + "/", kbArticles.Title);

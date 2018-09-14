@@ -27,7 +27,7 @@ namespace XamCnblogs.UI.Pages.Status
             InitializeComponent();
             Xamarin.Forms.PlatformConfiguration.iOSSpecific.Page.SetUseSafeArea(this, true);
             this.statuses = statuses;
-            Title = statuses.UserDisplayName + "的闪存";
+            Title = statuses.UserDisplayName + "'s Flash Note";
             BindingContext = new StatusesDetailsViewModel(statuses);
 
             formsWebView.OnContentLoaded += delegate (object sender, EventArgs e)

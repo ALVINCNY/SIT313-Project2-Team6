@@ -190,6 +190,8 @@ D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAn
 D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\XamCnblogs.Portable.pdb
 D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\android\assets\XamCnblogs.UI.pdb
 D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\bin\Debug\XamCnblogs.Android.dll
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\linksrc\XamCnblogs.Portable.pdb
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\linksrc\XamCnblogs.UI.pdb
 D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\linksrc\XamCnblogs.Android.dll.mdb
 D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\linksrc\FormsViewGroup.dll.mdb
 D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\obj\Debug\MonoAndroid81\linksrc\Rg.Plugins.Popup.Droid.dll.mdb

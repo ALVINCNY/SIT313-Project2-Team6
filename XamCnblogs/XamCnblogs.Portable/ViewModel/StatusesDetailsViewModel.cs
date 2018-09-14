@@ -38,7 +38,7 @@ namespace XamCnblogs.Portable.ViewModel
         {
             this.statuses = statuses;
             CanLoadMore = false;
-            CommentDisplay = statuses.CommentCount > 0 ? statuses.CommentCount.ToString() : "评论";
+            CommentDisplay = statuses.CommentCount > 0 ? statuses.CommentCount.ToString() : "comment";
         }
         public async Task<List<StatusesComments>> ReloadCommentsAsync()
         {
@@ -79,7 +79,7 @@ namespace XamCnblogs.Portable.ViewModel
             var result = await StoreManager.StatusesCommentsService.PostCommentAsync(id, content.ToString());
             if (result.Success)
             {
-                Toast.SendToast("评论成功");
+                Toast.SendToast("commentSuccess");
             }
             else
             {

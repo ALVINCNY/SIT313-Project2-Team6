@@ -14,11 +14,11 @@ namespace XamCnblogs.UI.Pages.Account
         public AuthorizePage()
         {
             InitializeComponent();
-            Title = "登录";
+            Title = "Login";
 
             var cancel = new ToolbarItem
             {
-                Text = "关闭",
+                Text = "Cancel",
                 Command = new Command(async () =>
                 {
                     await Navigation.PopModalAsync();
@@ -66,14 +66,14 @@ namespace XamCnblogs.UI.Pages.Account
                             {
                                 stackLayout.IsVisible = false;
                                 activityIndicator.IsRunning = false;
-                                await DisplayAlert("登录", "登录失败", "确定");
+                                await DisplayAlert("Login", "Login失败", "确定");
                             }
                         }
                         else
                         {
                             stackLayout.IsVisible = false;
                             activityIndicator.IsRunning = false;
-                            await DisplayAlert("登录", "获取token失败", "确定");
+                            await DisplayAlert("Login", "获取token失败", "确定");
                         }
                     }
                 }

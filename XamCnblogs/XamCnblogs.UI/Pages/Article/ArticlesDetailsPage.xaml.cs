@@ -32,7 +32,7 @@ namespace XamCnblogs.UI.Pages.Article
             {
                 var cancel = new ToolbarItem
                 {
-                    Text = "分享",
+                    Text = "Share",
                     Command = new Command(() =>
                     {
                         DependencyService.Get<IShares>().Shares(articles.Url, articles.Title);

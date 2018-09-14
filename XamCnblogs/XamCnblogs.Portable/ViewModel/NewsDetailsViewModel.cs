@@ -135,7 +135,7 @@ namespace XamCnblogs.Portable.ViewModel
             var result = await StoreManager.NewsDetailsService.PostCommentAsync(id, content.ToString(), hasEdit);
             if (result.Success)
             {
-                Toast.SendToast(hasEdit ? "修改评论成功" : "评论成功");
+                Toast.SendToast(hasEdit ? "修改commentSuccess" : "commentSuccess");
             }
             else
             {

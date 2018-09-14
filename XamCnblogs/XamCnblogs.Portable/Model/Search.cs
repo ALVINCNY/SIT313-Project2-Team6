@@ -23,7 +23,7 @@ namespace XamCnblogs.Portable.Model
         {
             get
             {
-                return VoteTimes + " 推荐 · " + CommentTimes + " 评论 · " + ViewTimes + " 阅读";
+                return VoteTimes + " 推荐 · " + CommentTimes + " comment · " + ViewTimes + " 阅读";
             }
         }
     }

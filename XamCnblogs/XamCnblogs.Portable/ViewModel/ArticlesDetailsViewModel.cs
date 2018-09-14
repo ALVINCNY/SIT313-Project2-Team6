@@ -39,11 +39,11 @@ namespace XamCnblogs.Portable.ViewModel
 
         public ArticlesDetailsViewModel(Articles articles)
         {
-            Title = "博文";
+            Title = "Blog";
             this.articles = articles;
             ArticlesDetails = new ArticlesDetailsModel()
             {
-                CommentDisplay = articles.CommentCount > 0 ? articles.CommentCount.ToString() : "评论",
+                CommentDisplay = articles.CommentCount > 0 ? articles.CommentCount.ToString() : "comment",
             };
             IsBusy = true;
         }
@@ -60,7 +60,7 @@ namespace XamCnblogs.Portable.ViewModel
                 {
                     articles.Body = JsonConvert.DeserializeObject<string>(result.Message.ToString());
 
-                    ArticlesDetails.CommentDisplay = articles.CommentCount > 0 ? articles.CommentCount.ToString() : "评论";
+                    ArticlesDetails.CommentDisplay = articles.CommentCount > 0 ? articles.CommentCount.ToString() : "comment";
                 }
                 else
                 {
@@ -127,7 +127,7 @@ namespace XamCnblogs.Portable.ViewModel
             var result = await StoreManager.ArticlesDetailsService.PostCommentAsync(blogApp, id, content);
             if (result.Success)
             {
-                Toast.SendToast("评论成功");
+                Toast.SendToast("commentSuccess");
             }
             else
             {

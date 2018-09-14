@@ -23,7 +23,7 @@ namespace XamCnblogs.Portable.ViewModel
         {
             this.position = position;
             CanLoadMore = false;
-            //判断有没有登录
+            //判断有没有Login
             if (position == 4 && UserTokenSettings.Current.HasExpiresIn())
             {
                 LoadStatus = LoadMoreStatus.StausNologin;
@@ -45,7 +45,7 @@ namespace XamCnblogs.Portable.ViewModel
                     pageIndex = 1;
                     if (position == 4 && UserTokenSettings.Current.HasExpiresIn())
                     {
-                        //判断有没有登录
+                        //判断有没有Login
                         LoadStatus = LoadMoreStatus.StausNologin;
                         if (Questions.Count > 0)
                             Questions.Clear();
@@ -129,7 +129,7 @@ namespace XamCnblogs.Portable.ViewModel
             var result = await StoreManager.QuestionsService.EditQuestionsAsync(questions);
             if (result.Success)
             {
-                Toast.SendToast(questions.Qid > 0 ? "修改问题成功" : "提问成功");
+                Toast.SendToast(questions.Qid > 0 ? "ModifyQuestionSuccess" : "AskSuccess");
             }
             else
             {

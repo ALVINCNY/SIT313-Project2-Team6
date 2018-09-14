@@ -30,7 +30,7 @@ namespace XamCnblogs.UI.Pages.Question
             {
                 var cancel = new ToolbarItem
                 {
-                    Text = "分享",
+                    Text = "Share",
                     Command = new Command(() =>
                     {
                         DependencyService.Get<IShares>().Shares("https://q.cnblogs.com/q/" + questions.Qid + "/", questions.Title);

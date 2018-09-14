@@ -35,7 +35,7 @@ namespace XamCnblogs.Portable.ViewModel
             AnswersDetails = new AnswersDetailsModel()
             {
                 DiggDisplay = answers.DiggCount > 0 ? answers.DiggCount.ToString() : "推荐",
-                CommentDisplay = answers.CommentCounts > 0 ? answers.CommentCounts.ToString() : "评论"
+                CommentDisplay = answers.CommentCounts > 0 ? answers.CommentCounts.ToString() : "comment"
             };
         }
         public async Task<List<AnswersComments>> ReloadCommentsAsync()
@@ -72,7 +72,7 @@ namespace XamCnblogs.Portable.ViewModel
             var result = await StoreManager.AnswersDetailsService.PostCommentAsync(questionId, answerId, content);
             if (result.Success)
             {
-                Toast.SendToast("评论成功");
+                Toast.SendToast("commentSuccess");
             }
             else
             {
@@ -87,7 +87,7 @@ namespace XamCnblogs.Portable.ViewModel
             var result = await StoreManager.AnswersDetailsService.EditCommentAsync(questionId, answerId, commentId, userId, content);
             if (result.Success)
             {
-                Toast.SendToast("修改评论成功");
+                Toast.SendToast("修改commentSuccess");
             }
             else
             {

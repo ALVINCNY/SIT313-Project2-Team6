@@ -35,11 +35,11 @@ namespace XamCnblogs.UI.Pages.Question
             BindingContext = new QuestionsViewModel();
             if (questions.Qid > 0)
             {
-                Title = "编辑问题";
+                Title = "Edit问题";
             }
             else
             {
-                Title = "提问";
+                Title = "Ask";
             }
             var cancel = new ToolbarItem
             {

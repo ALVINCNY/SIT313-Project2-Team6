@@ -34,7 +34,7 @@ namespace XamCnblogs.UI.Pages.Account
             BindingContext = new BookmarksViewModel();
             if (bookmarks.WzLinkId > 0)
             {
-                Title = "编辑收藏";
+                Title = "Edit收藏";
             }
             else
             {

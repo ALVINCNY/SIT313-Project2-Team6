@@ -106,7 +106,7 @@ namespace XamCnblogs.Portable.ViewModel
             var result = await StoreManager.BookmarksService.EditBookmarkAsync(bookmarks);
             if (result.Success)
             {
-                Toast.SendToast("收藏成功");
+                Toast.SendToast("收藏Success");
             }
             else
             {

@@ -134,7 +134,7 @@ namespace XamCnblogs.Portable.ViewModel
             var result = await StoreManager.QuestionsDetailsService.PostAnswerAsync(id, content.ToString());
             if (result.Success)
             {
-                Toast.SendToast("回答成功");
+                Toast.SendToast("回答Success");
             }
             else
             {
@@ -149,7 +149,7 @@ namespace XamCnblogs.Portable.ViewModel
             var result = await StoreManager.QuestionsDetailsService.EditAnswerAsync(questionId, answerId, userId, content.ToString());
             if (result.Success)
             {
-                Toast.SendToast("修改回答成功");
+                Toast.SendToast("修改回答Success");
             }
             else
             {
