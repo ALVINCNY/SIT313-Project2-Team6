@@ -23,4 +23,17 @@ namespace XamCnblogs.Portable.Interfaces
     {
         Task<ResponseMessage> GetNewsAsync(int position, int pageIndex = 1, int pageSize = 20);
     }
+    public interface IShares
+    {
+        void Shares(string url, string title);
+        void SharesIcon(string url, string title, object icon);
+    }
+
+    public interface IStatusesCommentService
+    {
+        Task<ResponseMessage> GetCommentsAsync(int id);
+        Task<ResponseMessage> PostCommentAsync(int id, string content);
+        Task<ResponseMessage> DeleteCommentAsync(int statusId, int id);
+    }
+    
 }

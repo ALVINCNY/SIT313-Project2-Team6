@@ -36,7 +36,7 @@ namespace XamCnblogs.UI
 
             ViewModelBase.Init();
 
-            var bottomBarPage = new HomeTabbedPage() { Title = "博客园" };
+            var bottomBarPage = new HomeTabbedPage() { Title = "Cnblogs" };
             bottomBarPage.BackgroundColor = Color.White;
             bottomBarPage.On<Xamarin.Forms.PlatformConfiguration.Android>().SetToolbarPlacement(ToolbarPlacement.Bottom).SetOffscreenPageLimit(5).SetElevation(5F);
             bottomBarPage.Children.Add(new ArticlesTopTabbedPage());
@@ -144,7 +144,7 @@ namespace XamCnblogs.UI
                         case "update":
                             if (notification.ID > int.Parse(VersionTracking.CurrentBuild))
                             {
-                                if (await Xamarin.Forms.Application.Current?.MainPage.DisplayAlert("新版提示", notification.Title, "立即下载", "取消"))
+                                if (await Xamarin.Forms.Application.Current?.MainPage.DisplayAlert("New tip", notification.Title, "DownLoad Now", "cancel"))
                                 {
                                     await ViewModelBase.ExecuteLaunchBrowserAsync(notification.Url);
                                 }
@@ -162,7 +162,7 @@ namespace XamCnblogs.UI
         {
             if (Connectivity.NetworkAccess != NetworkAccess.Internet)
             {
-                DependencyService.Get<IToast>().SendToast("网络不给你，请检查网络设置");
+                DependencyService.Get<IToast>().SendToast("Offline mode Now");
             }
             else
             {

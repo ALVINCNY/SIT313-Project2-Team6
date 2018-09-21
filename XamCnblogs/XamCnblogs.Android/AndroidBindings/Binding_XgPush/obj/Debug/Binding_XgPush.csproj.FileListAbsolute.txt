@@ -1,5 +1,6 @@
 D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\AndroidBindings\Binding_XgPush\bin\Debug\XgPush.Android.dll
 D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\AndroidBindings\Binding_XgPush\bin\Debug\XgPush.Android.pdb
+D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\AndroidBindings\Binding_XgPush\obj\Debug\Binding_XgPush.csprojAssemblyReference.cache
 D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\AndroidBindings\Binding_XgPush\obj\Debug\Binding_XgPush.csproj.CoreCompileInputs.cache
 D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\AndroidBindings\Binding_XgPush\obj\Debug\XgPush.Android.dll
 D:\ALVINCNY\SIT313-Project2-Team6\XamCnblogs\XamCnblogs.Android\AndroidBindings\Binding_XgPush\obj\Debug\XgPush.Android.pdb
