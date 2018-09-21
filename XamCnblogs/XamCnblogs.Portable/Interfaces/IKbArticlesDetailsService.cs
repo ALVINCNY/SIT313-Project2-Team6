@@ -8,4 +8,19 @@ namespace XamCnblogs.Portable.Interfaces
     {
         Task<ResponseMessage> GetKbArticlesAsync(int id);
     }
+    public interface IKbArticlesService
+    {
+        Task<ResponseMessage> GetKbArticlesAsync(int pageIndex = 1, int pageSize = 20);
+    }
+    public interface INewsDetailsService
+    {
+        Task<ResponseMessage> GetNewsAsync(int id);
+        Task<ResponseMessage> GetCommentAsync(int id, int pageIndex, int pageSize);
+        Task<ResponseMessage> PostCommentAsync(int id, string content, bool hasEdit = false);
+        Task<ResponseMessage> DeleteCommentAsync(int id);
+    }
+    public interface INewsService
+    {
+        Task<ResponseMessage> GetNewsAsync(int position, int pageIndex = 1, int pageSize = 20);
+    }
 }
